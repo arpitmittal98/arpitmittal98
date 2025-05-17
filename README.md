@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Arpit Mittal
 
-<!--
-**arpitmittal98/arpitmittal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graduate Student | AI/ML | Software Engineering | NLP**
 
-Here are some ideas to get you started:
+- 🌍 Based in Buffalo, NY
+- 📫 Reach me: mittalarpit98@gmail.com
+- 🧠 Currently working on: NLP, LLMs and Software Engineering
+- ⚙️ Tools: Python, SQL, PyTorch, FastAPI, AWS, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+
+## 📊 GitHub Stats
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitMittal98&show_icons=true&theme=radical)
