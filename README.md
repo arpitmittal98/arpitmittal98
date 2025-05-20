@@ -13,6 +13,3 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
-
-## 📊 GitHub Stats
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitMittal98&show_icons=true&theme=radical)
