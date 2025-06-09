@@ -2,7 +2,7 @@
 
 **Graduate Student | AI/ML | Software Engineering | NLP**
 
-- 🌍 Based in Buffalo, NY
+- 🌍MLE Intern at Nutanix AI - San Jose, CA
 - 📫 Reach me: mittalarpit98@gmail.com
 - 🧠 Currently working on: NLP, LLMs and Software Engineering
 - ⚙️ Tools: Python, SQL, PyTorch, FastAPI, AWS, Docker
