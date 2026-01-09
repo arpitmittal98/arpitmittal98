@@ -2,8 +2,9 @@
 
 **Graduate Student | AI/ML | Software Engineering | NLP**
 
-- 🌍MLE Intern at Nutanix AI - San Jose, CA
+- 🌍 MLE Intern at Nutanix AI - San Jose, CA
 - 📫 Reach me: mittalarpit98@gmail.com
+- 🌍 Portfolio Website: https://arpitmittal98.github.io/
 - 🧠 Currently working on: AI Agents, LLMs and Software Engineering
 - ⚙️ Tools: Python, Langchain, SQL, PyTorch, MCP, FastAPI, AWS, Docker
 
